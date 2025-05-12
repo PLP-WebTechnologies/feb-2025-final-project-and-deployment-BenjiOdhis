@@ -146,3 +146,16 @@ main a:hover {
 .post-card a:hover {
   color: #FFA000;
 }
+.slider {
+  width: 100%;
+  max-width: 700px;
+  margin: 2rem auto;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.slider img {
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+}
